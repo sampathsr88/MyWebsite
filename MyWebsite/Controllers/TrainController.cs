@@ -18,7 +18,7 @@ namespace MyWebsite.Controllers
 
         public ActionResult AddTrain()
         {
-            return View ()
+            return View();
         }
 
         public ActionResult SearchTrain()

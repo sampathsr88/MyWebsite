@@ -13,5 +13,6 @@ namespace MyWebsite.Models
         private string Destination;
         private DateTime ArrivalTime;
 
+
     }
 }
